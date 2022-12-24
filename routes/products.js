@@ -1,6 +1,6 @@
+// express is a node framework
 const express = require("express");
 const router = express.Router();
-
 const {
   getAllProducts,
   getAllProductsTesting,
